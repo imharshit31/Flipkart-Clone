@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-multi-carousel": "^2.8.4",
+    "redux-devtools-extension": "^2.13.9"
+  }
+}
